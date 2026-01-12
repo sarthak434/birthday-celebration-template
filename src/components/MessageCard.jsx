@@ -13,19 +13,18 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `[Shivani Didi],
 
-Your personalized birthday message goes here.
+​I spent 21 years wondering what it felt like to have an elder sister’s love, and after everything 
+I went through in 2025, I realize now that life was just saving the best for last.
+From not having your number for 20 years to you becoming my 'safe space' and the reason my mood flips from 0 to 100—
+I can’t thank you enough for just being you.
+​I know I couldn't do as much as I wanted for your wedding,
+but I promise to always be the brother who stands by you, no matter the distance between India and London. 
+Please take care of your health in that freezing weather, stay warm, and have the most amazing day with Jiju!
+​Love you the most, Didi! ✨🙌
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
-
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
-
-Happy Birthday! 🎉
-
-— [Your Name]`;
+— [Sarthak Chauhan]`;
 
   // Handle page transitions
   useEffect(() => {
