@@ -170,7 +170,7 @@ function App() {
         </button>
         <Gallery isActive={currentPage === 4} />
         <section className="final">
-          <h2 className="final-message">💖 Forever Yours — [Your Name] 💖</h2>
+          <h2 className="final-message">💖 Forever Yours — [Younger BRO Sarthak] 💖</h2>
           <p className="final-subtitle">Your personalized closing message ✨</p>
         </section>
       </div>
